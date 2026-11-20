@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "builtAt": "2026-11-12T10:49:34+08:00",
+  "platform": {
+    "os": "windows",
+    "arch": "x64",
+    "minWindows": "10"
+  },
+  "python": {
+    "version": "3.12.4",
+    "executable": "python/python.exe",
+    "packages": [
+      {
+        "name": "audioread",
+        "version": "3.1.0"
+      },
+      {
+        "name": "certifi",
+        "version": "2026.10.23"
+      },
+      {
+        "name": "cffi",
+        "version": "2.1.1"
+      },
+      {
+        "name": "charset-normalizer",
+        "version": "3.5.2"
+      },
+      {
+        "name": "cloudpickle",
+        "version": "3.1.2"
+      },
+      {
+        "name": "decorator",
+        "version": "5.3.1"
+      },
+      {
+        "name": "idna",
+        "version": "3.20"
+      },
+      {
+        "name": "joblib",
+        "version": "1.6.0"
+      },
+      {
+        "name": "lazy-loader",
+        "version": "0.6"
+      },
+      {
+        "name": "librosa",
+        "version": "0.11.0"
+      },
+      {
+        "name": "llvmlite",
+        "version": "0.50.0"
+      },
+      {
+        "name": "msgpack",
+        "version": "1.2.4"
+      },
+      {
+        "name": "narwhals",
+        "version": "2.28.0"
+      },
+      {
+        "name": "numba",
+        "version": "0.68.1"
+      },
+      {
+        "name": "numpy",
+        "version": "2.5.4"
+      },
+      {
+        "name": "packaging",
+        "version": "26.3"
+      },
+      {
+        "name": "pillow",
+        "version": "10.4.0"
+      },
+      {
+        "name": "platformdirs",
+        "version": "4.14.5"
+      },
+      {
+        "name": "pooch",
+        "version": "1.9.0"
+      },
+      {
+        "name": "pycparser",
+        "version": "3.12"
+      },
+      {
+        "name": "requests",
+        "version": "2.34.2"
+      },
+      {
+        "name": "scikit-learn",
+        "version": "1.9.1"
+      },
+      {
+        "name": "scipy",
+        "version": "1.18.1"
+      },
+      {
+        "name": "soundfile",
+        "version": "0.14.0"
+      },
+      {
+        "name": "soxr",
+        "version": "1.1.0"
+      },
+      {
+        "name": "threadpoolctl",
+        "version": "3.8.0"
+      },
+      {
+        "name": "typing_extensions",
+        "version": "4.16.0"
+      },
+      {
+        "name": "urllib3",
+        "version": "2.8.0"
+      }
+    ],
+    "files": 5812,
+    "bytes": 361396373,
+    "licenses": [
+      "licenses/python-packages/INDEX.json",
+      "licenses/python-packages/audioread-3.1.0/licenses/LICENSE",
+      "licenses/python-packages/certifi-2026.10.23/licenses/LICENSE",
+      "licenses/python-packages/cffi-2.1.1/licenses/LICENSE",
+      "licenses/python-packages/charset-normalizer-3.5.2/licenses/LICENSE",
+      "licenses/python-packages/cloudpickle-3.1.2/licenses/LICENSE",
+      "licenses/python-packages/decorator-5.3.1/licenses/LICENSE.txt",
+      "licenses/python-packages/idna-3.20/licenses/LICENSE.md",
+      "licenses/python-packages/joblib-1.6.0/licenses/LICENSE.txt",
+      "licenses/python-packages/lazy-loader-0.6/licenses/LICENSE.md",
+      "licenses/python-packages/librosa-0.11.0/LICENSE.md",
+      "licenses/python-packages/llvmlite-0.50.0/licenses/LICENSE",
+      "licenses/python-packages/llvmlite-0.50.0/licenses/LICENSE.thirdparty",
+      "licenses/python-packages/msgpack-1.2.4/licenses/COPYING",
+      "licenses/python-packages/narwhals-2.28.0/licenses/LICENSE.md",
+      "licenses/python-packages/numba-0.68.1/licenses/LICENSE",
+      "licenses/python-packages/numba-0.68.1/licenses/LICENSES.third-party",
+      "licenses/python-packages/numpy-2.5.4/licenses/LICENSE.txt",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/_core/src/highway/LICENSE",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/ma/LICENSE",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/distributions/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/philox/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "licenses/python-packages/numpy-2.5.4/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "licenses/python-packages/packaging-26.3/licenses/LICENSE",
+      "licenses/python-packages/packaging-26.3/licenses/LICENSE.APACHE",
+      "licenses/python-packages/packaging-26.3/licenses/LICENSE.BSD",
+      "licenses/python-packages/pillow-10.4.0/LICENSE",
+      "licenses/python-packages/platformdirs-4.14.5/licenses/LICENSE",
+      "licenses/python-packages/pooch-1.9.0/licenses/LICENSE.txt",
+      "licenses/python-packages/pycparser-3.12/licenses/LICENSE",
+      "licenses/python-packages/requests-2.34.2/licenses/LICENSE",
+      "licenses/python-packages/requests-2.34.2/licenses/NOTICE",
+      "licenses/python-packages/scikit-learn-1.9.1/licenses/COPYING",
+      "licenses/python-packages/scipy-1.18.1/LICENSE.txt",
+      "licenses/python-packages/soundfile-0.14.0/LICENSE",
+      "licenses/python-packages/soxr-1.1.0/licenses/COPYING.LGPL",
+      "licenses/python-packages/soxr-1.1.0/licenses/LICENSE-PFFFT.txt",
+      "licenses/python-packages/soxr-1.1.0/licenses/LICENSE-libsoxr.txt",
+      "licenses/python-packages/soxr-1.1.0/licenses/LICENSE.txt",
+      "licenses/python-packages/threadpoolctl-3.8.0/licenses/LICENSE",
+      "licenses/python-packages/typing-extensions-4.16.0/licenses/LICENSE",
+      "licenses/python-packages/urllib3-2.8.0/licenses/LICENSE.txt"
+    ],
+    "sharedDlls": [
+      "concrt140.dll",
+      "ffi-8.dll",
+      "ffi.dll",
+      "libbz2.dll",
+      "libcrypto-3-x64.dll",
+      "libexpat.dll",
+      "liblz4.dll",
+      "liblzma.dll",
+      "libssl-3-x64.dll",
+      "libzstd.dll",
+      "msvcp140.dll",
+      "msvcp140_1.dll",
+      "msvcp140_2.dll",
+      "msvcp140_atomic_wait.dll",
+      "msvcp140_codecvt_ids.dll",
+      "python3.dll",
+      "python312.dll",
+      "sqlite3.dll",
+      "tbb12.dll",
+      "ucrtbase.dll",
+      "vccorlib140.dll",
+      "vcomp140.dll",
+      "vcruntime140.dll",
+      "vcruntime140_1.dll",
+      "zlib.dll"
+    ]
+  },
+  "media": {
+    "ffmpeg": {
+      "version": "ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+      "executable": "ffmpeg/ffmpeg.exe",
+      "bytes": 105423872,
+      "sha256": "3256173f3f8bffd7df12227c68adf68025edb1832273a9530688a7bb1ed8edec"
+    },
+    "ffprobe": {
+      "version": "ffprobe version 1.0.0-401a53202a Copyright (c) 2007-2024 the FFmpeg developers",
+      "executable": "ffmpeg/ffprobe.exe",
+      "bytes": 209944,
+      "sha256": "efdbf532876e2630f59a7eb462fc654b93aa15ec71e764144815877f824c0065"
+    },
+    "sharedDlls": [
+      "D3DCOMPILER_47.dll",
+      "MSVCP140.dll",
+      "VCRUNTIME140.dll",
+      "VCRUNTIME140_1.dll",
+      "avcodec-61.dll",
+      "avdevice-61.dll",
+      "avfilter-10.dll",
+      "avformat-61.dll",
+      "avutil-59.dll",
+      "brotlicommon.dll",
+      "brotlienc.dll",
+      "dav1d.dll",
+      "jxl.dll",
+      "jxl_cms.dll",
+      "jxl_threads.dll",
+      "swresample-5.dll",
+      "swscale-8.dll"
+    ],
+    "bytes": 147570096
+  },
+  "licenses": [
+    "licenses/FFMPEG.txt",
+    "licenses/FFPROBE.txt",
+    "licenses/GPL-3.0.txt",
+    "licenses/LGPL-2.1.txt",
+    "licenses/PYTHON-LICENSE.txt"
+  ],
+  "refreshedAt": "2026-11-12T11:13:22+08:00"
+}
